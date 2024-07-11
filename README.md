@@ -1,7 +1,7 @@
 # mac_blocker
 Script para gerenciar listas de controle de acesso (whitelist/blacklist) baseadas em MAC addresses para interfaces e VLANs específicas usando iptables.
 
-== Detalhes:
+**Detalhes:**
    - Valida e formata MAC addresses antes de adicionar à lista.
    - Permite adicionar múltiplos MACs de uma vez.
    - Suporte para adicionar MACs a partir de um arquivo (um MAC por linha).
