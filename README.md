@@ -16,7 +16,7 @@ Script para gerenciar listas de controle de acesso (whitelist/blacklist) baseada
 
 Para usar o script, salve-o com um nome como `mac_blocker.sh` e dê permissão de execução com `chmod +x mac_blocker.sh`.
 
-Deve ser executado como "**sudo**" ou como "**root**".
+Deve ser executado com permissões de "**sudo**" ou como "**root**".
 
 ```
 Uso: mac_blocker.sh [opções]
