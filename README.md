@@ -29,6 +29,7 @@ Opções:
   -f, --file <arquivo>   Adiciona MACs de um arquivo
   -l, --list             Lista os MACs armazenados
   -p, --apply            Aplica as regras no IPtables
+  -e, --existing         Usa configurações existentes ao aplicar (não requer interface ou VLAN)"
   -V, --verify           Verifica as regras sem aplicá-las
   -h, --help             Mostra esta mensagem de ajuda
 ```
